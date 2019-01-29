@@ -56,7 +56,7 @@ that on your mobile device so that you can copy and paste it)
 
 6. Start the server: `npm start`.
 
-7. Start ngrok: `ngrok http 3000`. Copy the `https:` URL to your clipboard.
+7. Start ngrok: `ngrok http 3000`. Copy the `https:` URL to your clipboard. (외부에서 localhost에 접속할 수 있도)
 
 8. Log into the SmartThings [Developer Workspace](https://devworkspace.developer.samsung.com/) and go to the 
 [Cloud-To-Cloud](https://devworkspace.developer.samsung.com/smartthingsconsole/iotweb/site/index.html#/development/smartThingsDevice/cloudToCloud)
